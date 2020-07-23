@@ -1,4 +1,4 @@
-# Quasar-ToDoList-Project
+# Quasar-SkillsList-Project
 
 ![Image of Yaktocat](https://github.com/dileepdail/Quasar-SkillsList-Project/blob/master/HomePage.PNG)
 
