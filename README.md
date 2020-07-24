@@ -9,12 +9,14 @@
     npm install -g @quasar/cli
     quasar create <folder_name>
 
-*Enter the settings.
-
-###### Start Project
+*Enter the settings. In my case I select default ones
 
     cd <folder_name>
     quasar dev
+    
+
+###### Reference
+https://www.youtube.com/watch?v=GV-D85D9KJQ
     
 
     
